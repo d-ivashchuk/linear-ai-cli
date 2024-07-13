@@ -1,5 +1,5 @@
 {
-  "name": "linear-ai-cli",
+  "name": "@stack-on-fire/linear-ai-cli",
   "version": "0.1.0",
   "description": "Create linear issues from text using AI.",
   "publishConfig": {
